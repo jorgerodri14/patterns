@@ -1,0 +1,21 @@
+{
+  "name": "@patterns/singleton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgerodri14/patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgerodri14/patterns/issues"
+  },
+  "homepage": "https://github.com/jorgerodri14/patterns#readme"
+}
